@@ -10,3 +10,9 @@ Thumbs.db
 .claude/
 .vercel
 .env*
+
+# QA generated artifacts
+cypress/videos/
+playwright-report/
+test-results/
+performance/jmeter-report/
